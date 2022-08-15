@@ -1,1 +1,1 @@
-# Introducao-Computacao-Grafica
+# Introdução à Computação Gráfica
