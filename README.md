@@ -1,1 +1,1 @@
-# Introdução à Computação Gráfica
+# Introdução à Computação Gráfica - OpenGL
