@@ -1,0 +1,3 @@
+#!/bin/sh
+#clang -g -o njogo *.c ../../../lib/mydebuglib.c -I ../../../include -I ./include -I ../include -I ../../include -I /usr/local/include -L /usr/local/lib -lGL -lGLU -lglut -lm
+clang -g -o njogo *.c -I ../../../include -I ./include -I ../include -I ../../include -I /usr/local/include -L /usr/local/lib -lGL -lGLU -lglut -lm
