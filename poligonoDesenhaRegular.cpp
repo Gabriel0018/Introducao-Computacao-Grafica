@@ -1,4 +1,3 @@
-#define _USE_MATH_DEFINES
 #include <math.h>
 #include <GL/glut.h>
 
@@ -75,11 +74,3 @@ int main(int argc, char** argv)
 	glutMainLoop();
 	return 0;
 }
-
-/*
-glColor3f(0.0, 1.0, 0.5);
-glVertex2f((1 - kDivLines) * radTimesCos + kDivLines * radTimesCosIncre, (1 - kDivLines) * radTimesSin + kDivLines * radTimesSinIncre);
-glVertex2f(kDivLines * radTimesCos, kDivLines * radTimesSin);
-glVertex2f((1 - kDivLines) * radTimesCos + kDivLines * radTimesCosIncre, ((1 - kDivLines) * radTimesSin + (kDivLines * radTimesSinIncre)));
-glVertex2f((1 - kDivLines) * radTimesCosIncre, ((1 - kDivLines) * radTimesSinIncre + (kDivLines * radTimesSinIncre)));
-*/
