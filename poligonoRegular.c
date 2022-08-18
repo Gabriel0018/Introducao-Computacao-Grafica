@@ -11,7 +11,7 @@ typedef struct point {
 #define VERTEX_COUNT 4
 
 Point points[VERTEX_COUNT] = {
-	100, 150,
+    100, 150,
     100, 100,
     150, 100,
     150, 150
