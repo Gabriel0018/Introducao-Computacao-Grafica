@@ -1,0 +1,3 @@
+O Ray Tracing é aplicado em jogos (e com RT Cores), utilizando inteligência artificial para criar, em tempo real, efeitos de luz e sombreamentos mais reais. Isso também vale na hora de gerar reflexos, refrações e iluminação geral mais verossímil fisicamente. A ideia é tornar a sensação de olhar para a TV (ou monitor) a mais próxima possível da experiência de se olhar por uma janela, no mundo real.
+
+Dessa forma, o programa proposto tem por objetivo representar princípios do Ray Tracing aplicado à computação gráfica, utlizando a biblioteca opengl/glut, tomando como base três polígonos.
