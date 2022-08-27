@@ -1,4 +1,4 @@
-1 - navegar ate a pasta onde está o raytrace e digitar no terminal:
+1 - navegar ate a pasta onde está o convexHull e digitar no terminal:
 
 g++ -o bruteForce bruteForce.cpp -lglut -lGL -lGLU -lm
 g++ -o jarvisMarch jarvisMarch.cpp -lglut -lGL -lGLU -lm 
